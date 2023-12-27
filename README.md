@@ -1,1 +1,1 @@
-# OpenSourceProjectBasic
+# OpenSourceBasicProject
